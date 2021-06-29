@@ -1,27 +1,70 @@
-# Portfolio02
+# Hugo Montes
+I am a dedicated, organized and methodical person. I have good interpersonal skills, I am team worker and I like to learn and develop new skills. I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I am determined and decisive. I identify and develop opportunities.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
+I have experience mainly in Java, JavaScript, TypeScript and PHP technologies. I know about  administration and configuration of linux servers.
 
-## Development server
+## Skillset
+Some of the programming languages, libraries, frameworks and databases that I use and know:
+- Java 8 and Java 11
+    - Java Server Faces
+    - Spring MVC
+    - Spring Boot
+    - JPA implementation Hibernate
+    - JUnit
+    - Glassfish, Payara and WildFly servers administration
+- Java Script
+    - Native JS
+    - JQuery
+    - Type Script
+    - NodeJS
+    - Angular    
+- PHP
+    - Native PHP
+    - Codeigniter
+    - Laravel 
+- Databases
+    - SQL Server
+    - PostgreSQL
+    - MySQL
+- HTML and CSS
+    - HTML5
+    - CSS3
+    - Bootstrap
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Development tools
+Some of the tools that I use and know for software development:
+- Visual Studio Code
+- Eclipse STS
+- IntelliJ IDEA
+- NetBeans IDE
+- Postman
+- SoapUI
+- DBeaver
+- SQLWorkbench
+- Navicat
+- Git
+    - GitBash
+    - SmartGit
+    - TortoiseGit
+    - GitKraken
+- Balsamiq Mockups
+- Dia
+- Draw
+- Microsoft Visio
+- Microsoft Project
+- Firefox Developer Edition
 
-## Code scaffolding
+I know and have experience working with agile project management software:
+- Jira
+- Trello
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Management and administration of linux servers
+Linux server management and administration, Debian 10 distribution:
+- Installation and configuration of Linux Servers and virtualization.
+- Administration and Implementation of Router, Firewall and Proxy.
+- Administration and Implementation of VPN.
+- Administration and Implementation of Local Network Services.
+- Administration and Implementation of Internet Services, Email, Web, DNS Services.
+- Administration and Implementation of Databases,
+MySQL and PostgreSQL.

@@ -183,7 +183,7 @@ This infrastructure background helps me understand software beyond the applicati
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,ts,angular,vue,html,css,mysql,postgres,mongodb,docker,aws,linux,git,github,githubactions" alt="Technology stack">
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,ts,angular,vue,html,css,mysql,postgres,mongodb,docker,aws,linux,git,github,githubactions,grafana,idea,kafka,rabbitmq,selenium,vscode,nodejs" alt="Technology stack">
 
 </p>
 

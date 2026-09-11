@@ -271,6 +271,7 @@ Software engineering is a continuous process of learning.
 
 I regularly explore:
 
+- Generative AI and AI-assisted development
 - Modern Java and Spring ecosystem
 - Microservices and distributed systems
 - Cloud architecture
@@ -278,7 +279,6 @@ I regularly explore:
 - DevOps and observability
 - Automated testing
 - Software architecture and design patterns
-- Generative AI and AI-assisted development
 
 ---
 
